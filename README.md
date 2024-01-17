@@ -1,8 +1,8 @@
-Calibration of volatility model including :
-SVI (Implied stochastic volatility model)
-PDV (Path dependent volatility model)
-
-Parameter calibrated using :
-Nelder-mead
-Simulated annealing
-Particle Swarm Optimization
+Calibration of volatility model including : <br>
+SVI (Implied stochastic volatility model)<br>
+PDV (Path dependent volatility model)<br>
+<br>
+Parameter calibrated using :<br>
+Nelder-mead<br>
+Simulated annealing<br>
+Particle Swarm Optimization<br>
